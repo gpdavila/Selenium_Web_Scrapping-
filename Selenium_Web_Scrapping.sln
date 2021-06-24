@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_Web_Scrapping", "Selenium_Web_Scrapping\Selenium_Web_Scrapping.csproj", "{2CF1877B-0A1E-4FA8-9E49-EE16A5E4EB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF1877B-0A1E-4FA8-9E49-EE16A5E4EB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF1877B-0A1E-4FA8-9E49-EE16A5E4EB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF1877B-0A1E-4FA8-9E49-EE16A5E4EB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF1877B-0A1E-4FA8-9E49-EE16A5E4EB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80F82A9-E4A3-46DE-B503-D937529D714D}
+	EndGlobalSection
+EndGlobal
