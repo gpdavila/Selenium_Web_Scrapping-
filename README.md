@@ -2,9 +2,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/gpdavila/Selenium_Web_Scrapping-">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image (30).png" alt="Logo" >
   </a>
-  
+  </br>
 
 # :airplane: Airplane Seats Selection 
 
